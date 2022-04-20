@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dandesaj
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning GAS, Java, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: GAS, JavaScript, Angular and TypreScript
 
 
 <!---
