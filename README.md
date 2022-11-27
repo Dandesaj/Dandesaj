@@ -7,7 +7,6 @@
 -   SQL
 -   Express Js
 -   GAS
--   
 
 
 <!---
