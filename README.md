@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @Dandesaj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning: GAS, JavaScript, Angular and TypreScript
+- 👀 I’m interested in finding automazation solutions for work flows through technological solutions. 
+- 🌱 Tech stack:
+-   JavaScript
+-   TypeScript
+-   Angular
+-   SQL
+-   Express Js
+-   GAS
+-   
 
 
 <!---
