@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @Dandesaj
 - 👀 I’m interested in finding automazation solutions for work flows through technological solutions. 
-- 🌱 Tech stack:
--   JavaScript
--   TypeScript
+
+🌱 Front End stack:   
 -   Angular
--   SQL
+-   React
+
+🌱 Back End stack:   
+-   NodeJs
 -   Express Js
--   GAS
+-   MsSQL
 
 
 <!---
